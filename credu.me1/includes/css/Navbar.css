@@ -1,0 +1,25 @@
+.navbar {
+    border-radius: 0px;
+    border-bottom-style: groove;
+    border-bottom-color: black;
+    border-bottom-width: 3px;
+    text-align: center;
+}
+
+.navbar .navbar-header {
+    margin-top: -5px;
+}
+
+.navbar .navbar-header h3 {
+    color: #ffffff;
+    font: normal 24px 'Cookie', cursive;
+    margin: 0;
+}
+
+.navbar .navbar-header h3 span {
+    color: greenyellow;
+}
+
+.navbar .nav.navbar-nav {
+    margin-top: 8px;
+}

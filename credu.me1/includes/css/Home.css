@@ -1,0 +1,52 @@
+body {
+    background-image: url("../img/Background [Home].jpg");
+}
+
+.all-center {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: greenyellow;
+}
+
+h4 {
+    color: white;
+}
+
+a {
+    color: white;
+    cursor: pointer;
+}
+
+.found {
+    background-color: lightblue;
+}
+
+.jumbotron {
+    background-color: rgba(52, 73, 94, 0.7);
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.jumbotron .child {
+    background-color: rgba(52, 73, 94, 0.7);
+    margin: 0px;
+}
+
+.jumbotron.action {
+    color: white !important;
+}
+
+#scrollbox {
+    overflow: auto;
+    height: 250px;
+}

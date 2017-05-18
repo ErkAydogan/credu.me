@@ -1,0 +1,73 @@
+body {
+    background-image: url("../img/Background [Profile].jpeg");
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+    cursor: pointer;
+}
+
+a:hover {
+   color: white !important;
+}
+
+.green {
+    color: greenyellow !important;
+}
+
+.link {
+    color: yellowgreen !important;
+}
+
+.last {
+    margin-bottom: -20px !important;
+}
+
+.jumbotron {
+    background-color: rgba(52, 73, 94, 0.7);
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.jumbotron .child {
+    background-color: rgba(52, 73, 94, 0.7);
+    margin: 0px;
+}
+
+.jumbotron h4 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+#scrollbox {
+    overflow: auto;
+    height: 250px;
+}

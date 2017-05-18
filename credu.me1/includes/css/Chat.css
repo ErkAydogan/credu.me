@@ -1,0 +1,59 @@
+#ChatRoom {
+    background-color: whitesmoke;
+}
+
+#ChatRoom #NoPrivate h3 {
+    color: green;
+}
+
+#ChatRoom #NoPrivate h4 {
+    color: green;
+}
+
+#ChatRoom #Private h3 {
+    color: darkred;
+}
+
+#ChatRoom #Private h4 {
+    color: darkred;
+}
+
+#ChatRoom #Private p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#ChatRoom #Private a {
+    cursor: pointer;
+}
+
+#ChatRoom hr {
+    border-top-color: darkcyan;
+}
+
+#ChatRoom #NoPrivate #DisplayArea {
+    height: 500px;
+    border: 1px solid;
+    border-color: darkcyan;
+    overflow: auto;
+}
+
+#ChatRoom #Private #DisplayArea {
+    height: 300px;
+    border: 1px solid;
+    border-color: darkcyan;
+    overflow: auto;
+}
+
+#ChatRoom #DisplayArea .form-group {
+    width: 92% !important;
+}
+
+#ChatRoom #DisplayArea .form-group .form-control {
+    width: 100% !important;
+    border: 1px solid darkcyan;
+}
+
+#ChatRoom #DisplayArea .form-inline .btn.btn-success {
+    border-color: darkcyan;
+}
