@@ -1,9 +1,5 @@
-http://credu.me/
+
 
 Developers:
-Sayım Erk Aydoğan, Barış Ceylan
+Sayım Erk Aydoğan, Barış Ceylan, Batuhan Erden, Ekrem Çetinkaya, Ömer Said Bükte
 
-Test User: (You can test our system with this user)
-
-Email: charles.knight@ozu.edu.tr
-Password: 2E0OZXF551K7
